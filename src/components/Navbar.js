@@ -22,7 +22,7 @@ function Navbar() {
         <Link to="/Products" className='p' style={{margin:30}}>Product</Link>
         <Link to="/Team" className='t' style={{margin:30}}>Team</Link>
         <Link to="/Support" className='s' style={{margin:30}}>Support</Link>
-        <Link to="/Reports" className='r' style={{margin:30}}>Report</Link>
+        <Link to="/Dropzone" className='r' style={{margin:30}}>DropZone</Link>
         <Link to="/SignUp" class="button button1" >Sign up</Link>
         </div>
         <nav className={sidebar?'nav-menu active': 'nav-menu'}>
